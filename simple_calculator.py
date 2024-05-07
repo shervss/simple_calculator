@@ -1,6 +1,13 @@
 # Pseudocode
 
 # Print the operations to choose from
+print("\nSimple Calculator")
+print("\nChoose the math operation:")
+print("1. Addition")
+print("2. Subtraction")
+print("3. Multiplication")
+print("4. Division")
+print("5. Exit")
 # Get user's choice for the math operation
 # Get user's input for two numbers
 # Perform the selected math operation and display the result
